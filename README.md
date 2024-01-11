@@ -24,6 +24,7 @@ How to Play
 
 Choose mode: Player vs AI or AI vs AI.
 Follow on-screen instructions for gameplay.
+
 Contribute
 
 Contributions and suggestions are welcomed. Feel free to fork, modify, and submit pull requests.
