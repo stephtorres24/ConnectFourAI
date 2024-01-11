@@ -9,14 +9,17 @@ Features
 Advanced AI: Employs Minimax algorithm with Alpha-Beta pruning.
 Game Modes: Player vs AI and AI vs AI modes.
 Performance Analysis: Demonstrated AI efficiency with detailed game analytics.
+
 Results
 
 AI vs AI Testing: Alpha-Beta pruning significantly reduces the total time and nodes evaluated for AI moves compared to non-pruning approaches.
 Human vs AI: The AI poses a strong challenge to human players, showcasing the effectiveness of the implemented algorithms.
+
 Installation
 
 Clone this repository.
 Run the game from your Python environment.
+
 How to Play
 
 Choose mode: Player vs AI or AI vs AI.
